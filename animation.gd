@@ -1,3 +1,7 @@
+#From the Book:
+#Create Compelling Science and Engineering Simulations Using the Godot Engine, Copyright 2024 Burney Waring, ThankGod Egbe, Lateef Kareem 
+#Chapter 3
+
 extends Sprite
 
 
